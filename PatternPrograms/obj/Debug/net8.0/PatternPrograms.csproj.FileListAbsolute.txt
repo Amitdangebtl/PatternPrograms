@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\bin\Debug\net8.0\PatternPrograms.exe
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\bin\Debug\net8.0\PatternPrograms.deps.json
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\bin\Debug\net8.0\PatternPrograms.runtimeconfig.json
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\bin\Debug\net8.0\PatternPrograms.dll
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\bin\Debug\net8.0\PatternPrograms.pdb
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.dll
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\refint\PatternPrograms.dll
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.pdb
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\PatternPrograms.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PatternPrograms\PatternPrograms\obj\Debug\net8.0\ref\PatternPrograms.dll
